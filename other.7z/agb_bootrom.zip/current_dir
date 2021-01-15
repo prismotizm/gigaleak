@@ -3,4 +3,4 @@ Type: archive
 Size: 960818
 Last-Modified: '2018-05-07T23:00:00Z'
 SHA-1: 3B94BC8DEC128F1023131098884278A6A49DA521
-Description: null
+Description: This contains the source code for the Game Boy Advance's bootrom, and the source code for the Game Boy Color's bootrom.
